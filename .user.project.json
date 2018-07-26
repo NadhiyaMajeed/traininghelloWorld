@@ -1,0 +1,22 @@
+{
+  "run": [
+    {
+      "filePath": "/helloWorld.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8536338,
+        "displayName": "Run helloWorld.html",
+        "lastRunTimeStamp": 1532585820956
+      }
+    }
+  ]
+}
